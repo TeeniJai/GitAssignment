@@ -21,6 +21,7 @@ public class cars {
 				loop = false;
 			}
 		}
+		in.close();
 	}
 
 }
